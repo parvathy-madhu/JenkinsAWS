@@ -11,7 +11,7 @@ import io.cucumber.java.en.Then;
 
 public class Definitions {
 public WebDriver driver;
-public static String path = "/usr/bin/chromedriver.exe";
+public static String path = "/usr/bin/chromedriver";
 
 		
 		@Given("navigate to home page of urban ladder website")
